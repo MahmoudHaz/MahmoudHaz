@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Hazem</h1>
-- 🔭 I’m currently learning **Meta Front-End Developer Professional Certificate**
 
-- 🌱 I’m currently learning **Meta front-end developer(React.js)**
+
+- 🔭 I’m currently learning **Meta Front-End Developer Professional Certificate**
 
 - 🌱 I’m currently learning [Mastering 4 critical SKILLS using Python](udemy.com/course/python-4skills/)
 
