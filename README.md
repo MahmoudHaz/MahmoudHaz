@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning [Mastering 4 critical SKILLS using Python](udemy.com/course/python-4skills/)
 
-- 💬 Ask me about **Html,Css,Python**
+- 💬 Ask me about **Html,Css and Python**
 
 - 📫 How to reach me **mahazem66@outlook.com**
 
